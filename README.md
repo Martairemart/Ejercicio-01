@@ -1,5 +1,5 @@
 # Hardware de Nintendo Switch
-##Índice
+## Índice
 * Características básicas 
 * Especificaciones técnicas
 * El modelo Lite, ¿a quién va dirigido'
