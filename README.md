@@ -7,3 +7,6 @@
 ### Características básicas 
 Según el fabricante, la Switch es una consola híbrida, lo cual significa que no es completamente una consola portátil ya que, inicialmente, se lanzó con un dock para conectarla a la TV. De esta forma, los dos mandos «Joy-con» se pueden quitar para utilizarlos de forma inalámbrica, y con la consola conectada al dock tendríamos también una consola de sobremesa. Luego, volvemos a ponerle los mandos en ambos laterales, sacamos la pantalla del dock y tenemos una consola portátil. Este concepto fue claramente innovador en el momento de su lanzamiento, y uno de los mayores motivos de su éxito.
 ### Especificaciones técnicas
+* Tamaño
+  * Nintendo Switch
+    * 102 x 239 x 13,9 mm (con los mandos acoplados)   
