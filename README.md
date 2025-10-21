@@ -15,3 +15,10 @@ Según el fabricante, la Switch es una consola híbrida, lo cual significa que n
   * Nintendo Switch Lite
     * 91,1 x 208 x 13,9 mm
 
+  * Peso
+    * Nintendo Switch
+      * 398 gramos (297 gramos sin los Joy-con)
+    * Nintendo Switch OLED
+      * 420 gramos (320 gramos sin los Joy-con)
+    * Nintendo Switch Lite
+      * 275 gramos
