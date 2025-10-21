@@ -9,4 +9,9 @@ Según el fabricante, la Switch es una consola híbrida, lo cual significa que n
 ### Especificaciones técnicas
 * Tamaño
   * Nintendo Switch
-    * 102 x 239 x 13,9 mm (con los mandos acoplados)   
+    * 102 x 239 x 13,9 mm (con los mandos acoplados)
+  * Nintendo Switch OLED
+    * 102 x 242 x 13,9 mm (con los mandos acoplados)
+  * Nintendo Switch Lite
+    * 91,1 x 208 x 13,9 mm
+
