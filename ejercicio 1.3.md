@@ -1,1 +1,1 @@
-![MI IMAGEN FAVORITA](./img2/ub 1.png)
+![MI IMAGEN FAVORITA](./img2/ub1.png)
